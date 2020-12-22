@@ -1,0 +1,10 @@
+Login untuk peserta test
+
+1. id
+2. nama lengkap ( tidak usah dengan username sudah disamakan dengan nama lengkap saja )
+3. Email
+4. password
+5. gender
+6. usia 
+7. jabatan 
+8. tanggal login (hari tanggal bulan tahun)
