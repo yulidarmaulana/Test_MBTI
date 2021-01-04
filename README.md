@@ -24,11 +24,10 @@ Dimensi terakhir melihat derajat fleksibilitas seseorang. Judging di sini bukan 
 
 ##Instalasi
 1. download file mbti.zip 
-2. extract ke folder root document webserver
+2. extract ke folder htdocs webserver
 3. buat database baru dengan nama 'mbti'
 4. import 'database/mbti.sql' ke dalam database 'mbti' tersebut
 5. ubah konfigurasi database pada file 'inc/config.php' sesuai dengan yang digunakan 
-6. enjoy
 
 ##Teknologi
 + PHP (http://www.php.net/), 
